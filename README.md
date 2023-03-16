@@ -27,4 +27,4 @@ This project was created by Ibrahim with help from Codehal.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://chat.openai.com/LICENSE.md) file for details.
+This project is licensed under the MIT License.
